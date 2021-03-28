@@ -1,0 +1,16 @@
+h1{
+    color: palevioletred
+}
+
+/******* Class Selectors*******/
+.bacon{
+    background-color: papayawhip;
+}
+
+.broccoli{
+    background-color: gainsboro;
+}
+
+.circular{
+    border-radius: 100%;
+}
