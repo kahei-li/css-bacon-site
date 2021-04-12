@@ -1,5 +1,10 @@
+/******* Tag Selectors*********/
 h1 {
   color: palevioletred
+}
+
+img:hover {
+  background-color: pink;
 }
 
 /******* Class Selectors*******/
@@ -13,4 +18,9 @@ h1 {
 
 .circular {
   border-radius: 100%;
+}
+
+/******* Tag Selectors*********/
+#heading {
+  color: blue;
 }

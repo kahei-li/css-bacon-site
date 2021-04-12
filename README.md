@@ -1,2 +1,5 @@
 # css-bacon-site
-Test commit from VM
+Notes to be continued and remade.
+
+##
+Order by final CSS style:   id > class > tag
